@@ -1,0 +1,15 @@
+{
+  "name": "library-analysis",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Blackraven93/library-analysis.git",
+  "author": "곽세진_2004_anl <Reblackraven@Gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@babel/cli": "^7.16.7",
+    "@babel/core": "^7.16.7",
+    "@babel/node": "^7.16.7",
+    "@babel/preset-env": "^7.16.7",
+    "nodemon": "^2.0.15"
+  }
+}
